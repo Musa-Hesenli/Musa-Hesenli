@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musa-Hesenli
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning Laravel and React Native
-- 💞️ I’m looking to collaborate on React Native or Laravel projects
+- 🌱 I’m currently learning Laravel and React JS
+- 💞️ I’m looking to collaborate on React JS or Laravel Applications
 - 📫 How to reach me: email: musahesenli02@gmail.com, +994559779778 
 
 <!---
